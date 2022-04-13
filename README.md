@@ -2,7 +2,7 @@
 
 # Sensor Module Radio voltage report
 
-[![build](https://github.com/hardwario/twr-lora-tester/actions/workflows/main.yml/badge.svg)](https://github.com/hardwario/twr-radio-sensor-module-analog-inputs/actions/workflows/main.yml)
+[![build](https://github.com/hardwario/twr-radio-sensor-module-analog-inputs/actions/workflows/main.yml/badge.svg)](https://github.com/hardwario/twr-radio-sensor-module-analog-inputs/actions/workflows/main.yml)
 [![Release](https://img.shields.io/github/release/hardwario/twr-lora-tester.svg)](https://github.com/hardwario/twr-radio-sensor-module-analog-inputs/releases)
 [![License](https://img.shields.io/github/license/hardwario/twr-lora-tester.svg)](https://github.com/hardwario/twr-radio-sensor-module-analog-inputs/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
