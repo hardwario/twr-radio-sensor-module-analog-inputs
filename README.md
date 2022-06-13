@@ -42,9 +42,9 @@ Core Module also measures temperature and battery voltage.
 ```
 node/sensor-module/info {"firmware": "sensor-module", "version": "vdev", "mode": 3}
 node/sensor-module/thermometer/0:1/temperature 24.75
-node/sensor-module/sensormodule/a/voltage 3.26
-node/sensor-module/sensormodule/b/voltage 3.16
-node/sensor-module/sensormodule/c/voltage 0.77
+node/sensor-module/sena.s.ule/a/voltage 3.26
+node/sensor-module/sena.s.ule/b/voltage 3.16
+node/sensor-module/sena.s.ule/c/voltage 0.77
 ```
 
 ## VDD screw terminal
@@ -58,4 +58,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-Made with &#x2764;&nbsp; by [**HARDWARIO s.r.o.**](https://www.hardwario.com/) in the heart of Europe.
+Made with &#x2764;&nbsp; by [**HARDWARIO a.s.**](https://www.hardwario.com/) in the heart of Europe.
