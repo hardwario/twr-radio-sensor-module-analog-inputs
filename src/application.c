@@ -154,7 +154,7 @@ void application_init(void)
     twr_radio_init(TWR_RADIO_MODE_NODE_SLEEPING);
 
     // Send radio pairing request
-    twr_radio_pairing_request("sensor-module", VERSION);
+    twr_radio_pairing_request("sensor-module", FW_VERSION);
 
     // Pulse LED
     twr_led_pulse(&led, 2000);
@@ -211,6 +211,10 @@ void application_task(void)
 
             app_state = STATE_POWER_ON;
             twr_scheduler_plan_current_relative(ADC_MEASUREMENT_INTERVAL_MS);
+            break;
+        }
+        default:
+        {
             break;
         }
     }
